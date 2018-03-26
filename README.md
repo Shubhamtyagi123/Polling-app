@@ -1,6 +1,6 @@
-## Polling-app
+# Polling-app
 
-# E-Polling system 
+### E-Polling system 
 
 The concept behind our POC is an maintaining an E-Polling system for a state government or even higher authorities so that they can remove the EVMs and less mistakes happen.
 
